@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Nikolas 👋
+# Hey, I'm Sigeon Restaurant Studios 👋
 
 ### Indie developer behind **Sigeon Restaurant Studios**
 I make games, creative tools and animated shorts, and I build most of them with AI-assisted workflows.
