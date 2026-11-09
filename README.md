@@ -19,8 +19,8 @@ I make games and creative tools and animated shorts.
 | 🔥 | **Afterburn League** | An arcade game you can play on itch.io |
 | 🐦 | **Pyro Simulator** | Physics sandbox games for the browser |
 | 🎬 | **Sigeon Motion Studio** | A keyframe motion-graphics editor for shape, text and image layers |
-| 📊 | **Sigeon Deck** | A presentation app with animated templates and HTML export |
-| 🍽️ | **RestaurantOS** | A web OS-style app built around the Sigeon restaurant theme |
+| 📊 | **[Sigeon Deck](https://github.com/sigeonrestaurantstudios/SigeonDeck)** | A presentation app with animated templates and HTML export |
+| 🍽️ | **[RestaurantOS](https://github.com/sigeonrestaurantstudios/RestaurantOS)** | A complete desktop OS in your browser, with a BIOS, boot, setup, 30+ apps and games, all in one HTML file |
 | 📺 | **Cartoon shorts** | 3D cartoon story shorts made with three.js and Remotion |
 
 ## 🔭 Right now
