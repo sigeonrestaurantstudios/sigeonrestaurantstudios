@@ -21,6 +21,7 @@ I make games and creative tools and animated shorts.
 | 🎬 | **Sigeon Motion Studio** | A keyframe motion-graphics editor for shape, text and image layers |
 | 📊 | **[Sigeon Deck](https://github.com/sigeonrestaurantstudios/SigeonDeck)** | A presentation app with animated templates and HTML export |
 | 🍽️ | **[RestaurantOS](https://github.com/sigeonrestaurantstudios/RestaurantOS)** | A complete desktop OS in your browser, with a BIOS, boot, setup, 30+ apps and games, all in one HTML file |
+| 🤖 | **[RestaurantGPT](https://github.com/sigeonrestaurantstudios/RestaurantGPT)** | A local AI assistant that runs in your browser, with no API keys, plus a terminal coding app |
 | 📺 | **Cartoon shorts** | 3D cartoon story shorts made with three.js and Remotion |
 
 ## 🔭 Right now
